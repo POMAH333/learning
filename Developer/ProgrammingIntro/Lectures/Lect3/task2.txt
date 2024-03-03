@@ -1,0 +1,14 @@
+function find_max(array):
+ size = array.length
+ index = 0
+ max = array[0]
+ while (index < size) do
+	if (array[index] > max) then
+	max = array[index]
+	index = index + 1
+ return max
+
+numbers = [1, 8, 3, 2, 6]
+another_numbers = [15, 2, 74, 3, 8, 16, 24]
+max_number = find_max(numbers)
+another_max_number = find_max(another_numbers)
