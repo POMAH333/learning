@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7Z7jP1h6/j+MJ2xZmQrdKhUKy1syxdzk6g+lEmcYa5iA9DOzohB6Thdj1lY4YMk6e3cfRJOdw++STosRXeX9Q==",
+  "success": true,
+  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect4\\Example013_RecursionAlgoritm\\Example013_RecursionAlgoritm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

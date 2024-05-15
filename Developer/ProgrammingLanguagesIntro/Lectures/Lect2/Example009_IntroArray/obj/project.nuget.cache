@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUIQVbiN6pc0RAFpUSLGyiF7nH5jcy93f2vkkTHo2Gif+O4JdNPFMcjFYrRgzdhSydTj/6zlins34Dxy0USM9A==",
+  "success": true,
+  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TpBJUsAQ21LuGlZBMGN14UFgXnZzAfiS2Opb5ncfFgXbOr7lRa5RDXw0CvggF/eW/UxNFBp83lORKNV282BeQ==",
+  "success": true,
+  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example008_FriendsDog\\Exsmple008_FriendsDog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
