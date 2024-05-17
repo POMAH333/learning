@@ -1,0 +1,15 @@
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.csproj.AssemblyReference.cache
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.GeneratedMSBuildEditorConfig.editorconfig
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.AssemblyInfoInputs.cache
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.AssemblyInfo.cs
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.csproj.CoreCompileInputs.cache
+B:\Study\csharp\seminar6\bin\Debug\net6.0\seminar6.exe
+B:\Study\csharp\seminar6\bin\Debug\net6.0\seminar6.deps.json
+B:\Study\csharp\seminar6\bin\Debug\net6.0\seminar6.runtimeconfig.json
+B:\Study\csharp\seminar6\bin\Debug\net6.0\seminar6.dll
+B:\Study\csharp\seminar6\bin\Debug\net6.0\seminar6.pdb
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.dll
+B:\Study\csharp\seminar6\obj\Debug\net6.0\refint\seminar6.dll
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.pdb
+B:\Study\csharp\seminar6\obj\Debug\net6.0\seminar6.genruntimeconfig.cache
+B:\Study\csharp\seminar6\obj\Debug\net6.0\ref\seminar6.dll

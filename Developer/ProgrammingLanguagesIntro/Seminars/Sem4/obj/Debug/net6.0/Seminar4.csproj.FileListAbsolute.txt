@@ -1,0 +1,15 @@
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.csproj.AssemblyReference.cache
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.GeneratedMSBuildEditorConfig.editorconfig
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfoInputs.cache
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.AssemblyInfo.cs
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.csproj.CoreCompileInputs.cache
+B:\Study\CSharp\seminar4\bin\Debug\net6.0\Seminar4.exe
+B:\Study\CSharp\seminar4\bin\Debug\net6.0\Seminar4.deps.json
+B:\Study\CSharp\seminar4\bin\Debug\net6.0\Seminar4.runtimeconfig.json
+B:\Study\CSharp\seminar4\bin\Debug\net6.0\Seminar4.dll
+B:\Study\CSharp\seminar4\bin\Debug\net6.0\Seminar4.pdb
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.dll
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\refint\Seminar4.dll
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.pdb
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\Seminar4.genruntimeconfig.cache
+B:\Study\CSharp\seminar4\obj\Debug\net6.0\ref\Seminar4.dll

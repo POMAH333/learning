@@ -1,0 +1,15 @@
+B:\Study\CSharp\Tasks4\Task25\bin\Debug\net6.0\task25.exe
+B:\Study\CSharp\Tasks4\Task25\bin\Debug\net6.0\task25.deps.json
+B:\Study\CSharp\Tasks4\Task25\bin\Debug\net6.0\task25.runtimeconfig.json
+B:\Study\CSharp\Tasks4\Task25\bin\Debug\net6.0\task25.dll
+B:\Study\CSharp\Tasks4\Task25\bin\Debug\net6.0\task25.pdb
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.dll
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\refint\task25.dll
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.pdb
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+B:\Study\CSharp\Tasks4\Task25\obj\Debug\net6.0\ref\task25.dll

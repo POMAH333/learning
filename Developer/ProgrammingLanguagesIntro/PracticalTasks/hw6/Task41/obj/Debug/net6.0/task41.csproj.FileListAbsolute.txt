@@ -1,0 +1,15 @@
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+B:\Study\CSharp\tasks6\task41\bin\Debug\net6.0\task41.exe
+B:\Study\CSharp\tasks6\task41\bin\Debug\net6.0\task41.deps.json
+B:\Study\CSharp\tasks6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+B:\Study\CSharp\tasks6\task41\bin\Debug\net6.0\task41.dll
+B:\Study\CSharp\tasks6\task41\bin\Debug\net6.0\task41.pdb
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.dll
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\refint\task41.dll
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.pdb
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+B:\Study\CSharp\tasks6\task41\obj\Debug\net6.0\ref\task41.dll
