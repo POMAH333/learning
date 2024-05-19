@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6rcRnpIJru7QFDvkTI8Tw80OOvwTPvA8mCWPko1Zx09/AxEwRruv7BuVpBCpFfcooq/dHj20YDyUGxhu3KufoQ==",
+  "dgSpecHash": "SOqx2ipS+ZG6NrIFglvCgCZObLgZO3G3gQSohv1KYpJsKR52SNhfn4Qb4waEFOGLK1P9f7IBC+FwBty58eRQmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chert\\Documents\\GeekBrains\\03_Знакомство с языками программирования\\Examples\\Example001_НelloConcole\\Example001_НelloConcole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example001_НelloConcole\\Example001_НelloConcole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

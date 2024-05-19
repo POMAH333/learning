@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj": {}
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj": {}
   },
   "projects": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj": {
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
+        "projectUniqueName": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
         "projectName": "Example002_НelloUser",
-        "projectPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
+        "projectPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\obj\\",
+        "outputPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

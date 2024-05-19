@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLTQWwmnzLQ7I4dztQIV+Y9w0XBerdfuQy9plQF/NqXY0AyQCYO+Od4mdIabNLdLd1QPdlw+dHHqOCeMPLxuuQ==",
+  "dgSpecHash": "jsis92yBHwMaNQPvAqthfkHPij6COnmVAD9xAvcujeIOfQ9Ksog0M/5P5Ns2sUCLRSYWvUgNr1BfDQKWeXAlaA==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example002_НelloUser\\Example002_НelloUser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",

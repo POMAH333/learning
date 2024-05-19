@@ -13,3 +13,18 @@ C:\Users\chert\Documents\GeekBrains\03_Знакомство с языками п
 C:\Users\chert\Documents\GeekBrains\03_Знакомство с языками программирования\Examples\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.pdb
 C:\Users\chert\Documents\GeekBrains\03_Знакомство с языками программирования\Examples\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.genruntimeconfig.cache
 C:\Users\chert\Documents\GeekBrains\03_Знакомство с языками программирования\Examples\Example001_НelloConcole\obj\Debug\net6.0\ref\Example001_НelloConcole.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\bin\Debug\net6.0\Example001_НelloConcole.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\bin\Debug\net6.0\Example001_НelloConcole.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\bin\Debug\net6.0\Example001_НelloConcole.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\bin\Debug\net6.0\Example001_НelloConcole.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\bin\Debug\net6.0\Example001_НelloConcole.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\refint\Example001_НelloConcole.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\Example001_НelloConcole.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example001_НelloConcole\obj\Debug\net6.0\ref\Example001_НelloConcole.dll
