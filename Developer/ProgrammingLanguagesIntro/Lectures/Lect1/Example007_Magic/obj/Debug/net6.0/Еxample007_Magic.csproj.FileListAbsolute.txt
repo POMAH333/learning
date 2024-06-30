@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\bin\Debug\net6.0\Еxample007_Magic.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\bin\Debug\net6.0\Еxample007_Magic.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\bin\Debug\net6.0\Еxample007_Magic.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\bin\Debug\net6.0\Еxample007_Magic.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\bin\Debug\net6.0\Еxample007_Magic.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\refint\Еxample007_Magic.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\Еxample007_Magic.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example007_Magic\obj\Debug\net6.0\ref\Еxample007_Magic.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj": {}
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj": {}
   },
   "projects": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj": {
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
+        "projectUniqueName": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
         "projectName": "Еxample003_Sum",
-        "projectPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
+        "projectPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\obj\\",
+        "outputPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

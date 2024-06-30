@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj": {}
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj": {}
   },
   "projects": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj": {
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+        "projectUniqueName": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
         "projectName": "Example011_ArrayLibrary",
-        "projectPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
+        "projectPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\Example011_ArrayLibrary.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\obj\\",
+        "outputPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example011_ArrayLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

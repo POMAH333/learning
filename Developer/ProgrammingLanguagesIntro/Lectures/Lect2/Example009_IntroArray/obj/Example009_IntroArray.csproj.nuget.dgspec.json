@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj": {}
   },
   "projects": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj": {
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectUniqueName": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "projectName": "Example009_IntroArray",
-        "projectPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj",
+        "projectPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\Example009_IntroArray.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\obj\\",
+        "outputPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect2\\Example009_IntroArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\bin\Debug\net8.0\task5.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\bin\Debug\net8.0\task5.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\bin\Debug\net8.0\task5.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\bin\Debug\net8.0\task5.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\bin\Debug\net8.0\task5.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\refint\task5.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\task5.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\task5\obj\Debug\net8.0\ref\task5.dll

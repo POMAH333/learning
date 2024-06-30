@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\bin\Debug\net6.0\Еxample003_Sum.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\bin\Debug\net6.0\Еxample003_Sum.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\bin\Debug\net6.0\Еxample003_Sum.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\bin\Debug\net6.0\Еxample003_Sum.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\bin\Debug\net6.0\Еxample003_Sum.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\refint\Еxample003_Sum.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\Еxample003_Sum.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example003_Sum\obj\Debug\net6.0\ref\Еxample003_Sum.dll

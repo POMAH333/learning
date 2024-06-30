@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SH4xdcdf0w1umtESKv9AYEBs9EnF7P6ISKEIxigeRnKJhqyW8qrg45fSrhmrhb7bmBMldf+Ps7yhjq/A5FuFmQ==",
+  "dgSpecHash": "bTIF3SpIRN3qFpTwI/SSslC/wq5ivBwNVB2k6FLfpoYsXWzrOcMRMxYGL1AZpOsD96P0Wc2OvG9CIHUdxPUqQg==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",

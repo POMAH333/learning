@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Еxample007_Magic/1.0.0": {
+        "runtime": {
+          "Еxample007_Magic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Еxample007_Magic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

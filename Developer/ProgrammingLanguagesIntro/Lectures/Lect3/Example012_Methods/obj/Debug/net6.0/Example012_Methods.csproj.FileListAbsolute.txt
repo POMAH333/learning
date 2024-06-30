@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\refint\Example012_Methods.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect3\Example012_Methods\obj\Debug\net6.0\ref\Example012_Methods.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2TpBJUsAQ21LuGlZBMGN14UFgXnZzAfiS2Opb5ncfFgXbOr7lRa5RDXw0CvggF/eW/UxNFBp83lORKNV282BeQ==",
+  "dgSpecHash": "UQ9sJkPgHcQIkrYEGkZ1HxR0x0LqT9MWSzUvV20HO2XcecJeoohy8ckjDZRMR0la0XzDSKGzqlW2V8Tdi2X3IQ==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example008_FriendsDog\\Exsmple008_FriendsDog.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example008_FriendsDog\\Exsmple008_FriendsDog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",

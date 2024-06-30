@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\bin\Debug\net6.0\Еxample006_Base.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\bin\Debug\net6.0\Еxample006_Base.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\bin\Debug\net6.0\Еxample006_Base.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\bin\Debug\net6.0\Еxample006_Base.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\bin\Debug\net6.0\Еxample006_Base.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\refint\Еxample006_Base.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\Еxample006_Base.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example006_Base\obj\Debug\net6.0\ref\Еxample006_Base.dll

@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\bin\Debug\net6.0\Еxample004_Div.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\bin\Debug\net6.0\Еxample004_Div.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\bin\Debug\net6.0\Еxample004_Div.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\bin\Debug\net6.0\Еxample004_Div.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\bin\Debug\net6.0\Еxample004_Div.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\refint\Еxample004_Div.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\Еxample004_Div.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example004_Div\obj\Debug\net6.0\ref\Еxample004_Div.dll

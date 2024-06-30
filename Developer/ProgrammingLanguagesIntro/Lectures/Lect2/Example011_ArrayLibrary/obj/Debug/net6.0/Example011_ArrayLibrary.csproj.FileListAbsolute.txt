@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect2\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll

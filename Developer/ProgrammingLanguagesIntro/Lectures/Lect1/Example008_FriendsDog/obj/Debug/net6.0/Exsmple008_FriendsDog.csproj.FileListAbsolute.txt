@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\bin\Debug\net6.0\Exsmple008_FriendsDog.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\bin\Debug\net6.0\Exsmple008_FriendsDog.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\bin\Debug\net6.0\Exsmple008_FriendsDog.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\bin\Debug\net6.0\Exsmple008_FriendsDog.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\bin\Debug\net6.0\Exsmple008_FriendsDog.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\refint\Exsmple008_FriendsDog.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\Exsmple008_FriendsDog.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example008_FriendsDog\obj\Debug\net6.0\ref\Exsmple008_FriendsDog.dll

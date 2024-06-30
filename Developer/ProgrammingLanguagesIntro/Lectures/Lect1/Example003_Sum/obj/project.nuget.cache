@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S+LfiT/i4ziBZg3wS8jooD/ryRD/2E6g9hDrz9hdnprUvU4/Czo5Cp27qCilcOFw4vKe6zze7xZcimIneVwYQw==",
+  "dgSpecHash": "hzRxza58pLn7D5dxLxdmsQxYHXspGP8jcnj5a26KHmVy/M1Qpu3gWIeeiwnMPhH0ztbGoij/rw8EeIOZyVJ9Ig==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example003_Sum\\Еxample003_Sum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",

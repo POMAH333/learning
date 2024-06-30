@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\bin\Debug\net6.0\Еxample005_ConditionIfElse.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Еxample005_ConditionIfElse.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect1\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Еxample005_ConditionIfElse.dll

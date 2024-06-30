@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5/6WZoLK6uX3KZq6jZx5QciQ5C7UIeKMRaCy2ptg+q59pi967vPTkw55cvSa8Kls+2jzIOF3tLet3tvm7G+6eQ==",
+  "dgSpecHash": "wMgLyxBS7AHF/ikLRmhMB286obwTBa8yDWo7xun+GS1VHXNJq9ZYQFpvg9KXeNpUmRKlsO0vnL0u56Hj7pCzVw==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example007_Magic\\Еxample007_Magic.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect1\\Example007_Magic\\Еxample007_Magic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
