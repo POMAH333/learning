@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj": {}
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj": {}
   },
   "projects": {
-    "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj": {
+    "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
+        "projectUniqueName": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
         "projectName": "Example015_PascaleTriangle",
-        "projectPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
+        "projectPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
         "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-        "outputPath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\obj\\",
+        "outputPath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

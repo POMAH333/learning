@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oXX7ikD/M/tRZrTJWjO1Yq+EGILewWIKL35Y+Qb9NaQtL1NQijg2xCeZ4522+xiedQU/nCR6h0m6NXxSQnoRvA==",
+  "dgSpecHash": "gelgHmrh5ajao35rB2KABRUrGAjChOFsGDK46Xk46OSKQju9M3DrwDdg4PFH1mNVrblH0IBAvuEyllydRLwgew==",
   "success": true,
-  "projectFilePath": "b:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
+  "projectFilePath": "B:\\Learning\\Developer\\ProgrammingLanguagesIntro\\Lectures\\Lect8\\Example015_PascaleTriangle\\Example015_PascaleTriangle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\Zver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",

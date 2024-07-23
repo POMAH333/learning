@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Example014_InputStringParsing
-build_property.ProjectDir = b:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\
+build_property.ProjectDir = B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

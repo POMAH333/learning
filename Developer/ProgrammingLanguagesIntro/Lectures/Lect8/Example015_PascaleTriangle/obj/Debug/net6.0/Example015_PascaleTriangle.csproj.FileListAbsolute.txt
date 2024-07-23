@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\bin\Debug\net6.0\Example015_PascaleTriangle.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\bin\Debug\net6.0\Example015_PascaleTriangle.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\bin\Debug\net6.0\Example015_PascaleTriangle.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\bin\Debug\net6.0\Example015_PascaleTriangle.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\bin\Debug\net6.0\Example015_PascaleTriangle.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\refint\Example015_PascaleTriangle.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\Example015_PascaleTriangle.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect8\Example015_PascaleTriangle\obj\Debug\net6.0\ref\Example015_PascaleTriangle.dll

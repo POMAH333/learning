@@ -54,6 +54,6 @@ void Magic()
 
 Console.ReadLine();
 FillTriangle();
-//PrintTriangle();
+PrintTriangle();
 Console.ReadLine();
 Magic();

@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\bin\Debug\net6.0\Example014_InputStringParsing.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\bin\Debug\net6.0\Example014_InputStringParsing.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\bin\Debug\net6.0\Example014_InputStringParsing.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\bin\Debug\net6.0\Example014_InputStringParsing.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\bin\Debug\net6.0\Example014_InputStringParsing.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\refint\Example014_InputStringParsing.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\Example014_InputStringParsing.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect6\Example014_InputStringParsing\obj\Debug\net6.0\ref\Example014_InputStringParsing.dll

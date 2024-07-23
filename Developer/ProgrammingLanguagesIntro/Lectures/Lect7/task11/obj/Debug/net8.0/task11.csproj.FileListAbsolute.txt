@@ -1,0 +1,15 @@
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.AssemblyInfoInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.AssemblyInfo.cs
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.csproj.CoreCompileInputs.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.sourcelink.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\bin\Debug\net8.0\task11.exe
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\bin\Debug\net8.0\task11.deps.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\bin\Debug\net8.0\task11.runtimeconfig.json
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\bin\Debug\net8.0\task11.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\bin\Debug\net8.0\task11.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\refint\task11.dll
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.pdb
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\task11.genruntimeconfig.cache
+B:\Learning\Developer\ProgrammingLanguagesIntro\Lectures\Lect7\task11\obj\Debug\net8.0\ref\task11.dll
